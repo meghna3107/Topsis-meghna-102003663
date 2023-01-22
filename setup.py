@@ -14,7 +14,7 @@ setup(
     description="Topsis Implementation",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Simran509/Topsis-SimranMalik-102003680",
+    url="https://github.com/meghna3107/Topsis-meghna-102003663.git",
     author="meghna",
     author_email="mmeghna_be20@thapar.edu",
     license="MIT",
